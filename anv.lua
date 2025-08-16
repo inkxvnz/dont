@@ -1,3 +1,3 @@
 setfpscap(10)
-script_key="vgCyfcOgMxbfTCLgPqaitckkSxwaqFsx";
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c738d23907a049cf3ae3a34ce796464c.lua"))()
+script_key="PebumxPgCBOmLmANCbRszVRnVWOvVhWi";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4c5caafc54d335dc36ece9e300d654a3.lua"))()
